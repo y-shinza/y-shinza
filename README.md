@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=y-shinza&count_private=true&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=y-shinza&layout=compact&theme=dracula)
+
 <!--
 **y-shinza/y-shinza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
